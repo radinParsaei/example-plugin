@@ -24,4 +24,3 @@ let yml = `
           tooltip: test
 `
 createBlocksFromYAML(yml)
-refreshBlockly()
